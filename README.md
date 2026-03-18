@@ -8,6 +8,8 @@ Add Environmental Variables
 
 * `TOKEN` = `secretpassword` (use same token in client.toml config)
 * `SUBDOMAIN_HOST` = `frp.server.com` (replace with your domain)
+* `WEBSERVER_USER` = `admin` ( replace with whathever )
+* `WEBSERVER_PASSWORD` = `strongpassword` ( replace with strong password )
 
 
 Add Port Mapping
