@@ -9,3 +9,7 @@ auth.token = "#TOKEN#"
 
 subdomainHost = "#SUBDOMAIN_HOST#"
 
+webServer.addr = "0.0.0.0"
+webServer.port = 7500
+webServer.user = "#WEBSERVER_USER#"
+webServer.password = "#WEBSERVER_PASSWORD#"
